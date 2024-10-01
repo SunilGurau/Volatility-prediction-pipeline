@@ -1,0 +1,5 @@
+*.pid
+source/standalone_admin_password.txt
+*.db*
+logs/
+**/logs/
